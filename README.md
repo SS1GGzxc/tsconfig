@@ -1,4 +1,4 @@
-# `@ss1gg_zxc/tsconfig`
+# `@ss1ggzxc/tsconfig`
 
 > ✒ Here is my personal comfortable [TypeScript](https://www.typescriptlang.org) config.
 
@@ -6,15 +6,15 @@
 ## Install
 
 ```sh
-npm install -D @ss1gg_zxc/tsconfig
+npm install -D @ss1ggzxc/tsconfig
 ```
 
 ```sh
-yarn add @ss1gg_zxc/tsconfig -D
+yarn add @ss1ggzxc/tsconfig -D
 ```
 
 ```sh
-pnpm add @ss1gg_zxc/tsconfig -D
+pnpm add @ss1ggzxc/tsconfig -D
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ pnpm add @ss1gg_zxc/tsconfig -D
 ```json
 // tsconfig.json
 {
-  "extends": "@ss1gg_zxc/tsconfig",
+  "extends": "@ss1ggzxc/tsconfig",
   "compilerOptions": {
     "outDir": "dist" // placeholder for output directory
   },

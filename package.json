@@ -1,5 +1,5 @@
 {
-  "name": "@ss1gg_zxc/tsconfig",
+  "name": "@ss1ggzxc/tsconfig",
   "version": "1.0.0",
   "description": "Handy TypeScript tsconfig.json",
   "main": "tsconfig.json",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/SS1GGzxc/tsconfig.git"
   },
   "homepage": "https://github.com/SS1GGzxc/tsconfig.git#readme",
-  "author": "SS1GG_zxc",
+  "author": "SS1GGzxc",
   "license": "MIT",
   "engines": {
     "node": ">=14"
