@@ -1,5 +1,5 @@
 {
-  "name": "@ss1ggzxc/tsconfig",
+  "name": "@codecrackerdev/tsconfig",
   "version": "1.0.0",
   "description": "Handy TypeScript tsconfig.json",
   "main": "tsconfig.json",
@@ -8,10 +8,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SS1GGzxc/tsconfig.git"
+    "url": "git+https://github.com/codecrackerdev/tsconfig"
   },
-  "homepage": "https://github.com/SS1GGzxc/tsconfig.git#readme",
-  "author": "SS1GGzxc",
+  "homepage": "https://github.com/codecrackerdev/tsconfig#readme",
+  "author": "codecrackerdev",
   "license": "MIT",
   "engines": {
     "node": ">=14"
